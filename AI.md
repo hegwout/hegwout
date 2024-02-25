@@ -12,9 +12,14 @@
 ## 在线/App工具介绍
 
 ### 写作
-火山写作
+
+|名称|Brower/App/Discord|国内访问|费用|说明|
+|----|----|----|----|----|
+|火山写作| B | Y  | 3天免费 |  |
+|Copy.ai| B | Y  | 每月可以免费撰写2000个单词。每月36美元 | |
+
 Jasper
-Copy.ai
+
 Writesonic
 Rytr
 Grammarly
@@ -29,8 +34,12 @@ Grammarly
 |Morph Studio| | Y | Y | 测试版 |
 
 代码
-|名称|浏览器/App|国内访问|免费|说明|
+|名称|Brower/App/Discord|国内访问|免费|说明|
 |----|----|----|----|----|
+|  |  |  |  |  |
+ |  |  |  |  |
+
+
 |  |  |  |  |  |
 
 Midjourney 
